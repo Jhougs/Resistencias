@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Calc Resistencia</string>
+    <string name="Nombre">Calculadora de Resistencias</string>
+    <string name="Banda1">Banda 1</string>
+    <string name="Banda2">Banda 2</string>
+    <string name="Tolerancia">Multiplicador</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Porcentaje">Error</string>
+
+    <string-array name="resistance_color">
+        <item>Marron </item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+
+    </string-array>
+
+    <string-array name="banda2_color">
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+
+
+    </string-array>
+
+    <string-array name="tolerancia_color">
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+        <item>Oro</item>
+        <item>Plata</item>
+
+    </string-array>
+
+
+
+    <string-array name="Tolerancia_error">
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Oro</item>
+        <item>Plata</item>
+
+
+    </string-array>
+</resources>
